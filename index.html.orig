@@ -1,0 +1,15 @@
+<!doctype html>
+    <body>
+<div class="module-1">
+       <li>i love cake</li>
+</div>
+<div class="module-2">
+<<<<<<< HEAD
+    <li>latest module</li>
+=======
+    <li>module 867</li>
+>>>>>>> origin/new-feature
+</div>
+
+    </body>
+</html>
