@@ -1,14 +1,31 @@
 <!doctype html>
     <body>
 <div class="module-1">
-       <li>i love cake</li>
+<<<<<<< HEAD
+       <li>i hate cake</li>
+=======
+       <li>i love icecream cake cake</li>
+>>>>>>> top-feature: index.html changed [1]
 </div>
 <div class="module-2">
+    <li>yo</li>
+</div>
+
+<div class="extra feature">
+    <p>
 <<<<<<< HEAD
-    <li>latest module</li>
+        this is no good feature
+    </p>
+</div>
+<div>
+	<p>this is old product</p>
 =======
-    <li>module 867</li>
->>>>>>> origin/new-feature
+        this is hot feature
+    </p>
+</div>
+<div>
+	<p>this is new product is bad</p>
+>>>>>>> top-feature: index.html changed [1]
 </div>
 
     </body>
